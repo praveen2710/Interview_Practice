@@ -34,3 +34,21 @@ abstract class and interface
 final
 hash maps order
 stored procedure
+can a constructor be final?
+difference between declaring and defining
+static vs final
+consequence of declaring method inside and outside methods.
+final
+overloading vs overwriting (can constructor do both)- we can’t override
+finalize vs final vs finally
+
+Mac terminal commands;
+Ctrl+C = break;
+ls
+cd
+touch
+rm
+nano -ET2 file_name
+commant+t new terminal
+command+arrow key :toggle between terminal
+alias alisa_name=‘command’ (for current session only)
